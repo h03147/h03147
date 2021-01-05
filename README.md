@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-✨✨✨ ✨✨✨
-👷 I’m a College Student
-🌱 I’m currently learning Java & Python & JavaScript
-📫 How to reach me:soyellowjack@gmail.com
-✨✨✨ ✨✨✨
+- ✨✨✨ ✨✨✨
+- 👷 I’m a College Student
+- 🌱 I’m currently learning Java & Python & JavaScript
+- 📫 How to reach me:soyellowjack@gmail.com
+- ✨✨✨ ✨✨✨
