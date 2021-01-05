@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java & Python & JavaScript
 - 💬 Wechat:h03147
 - 📫 How to reach me:soyellowjack@gmail.com
-- 😄 Pronouns:Bonjour~
-- ✨✨✨ ✨✨✨
+- 😄 Pronouns:Bonjour~~
+- ✨✨✨ ✨✨✨  
 ![h03147's github stats](https://github-readme-stats.vercel.app/api?username=h03147&show_icons=true&theme=monokai)
