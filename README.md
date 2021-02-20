@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="mailto:mazdakpak@icloud.com">Email</a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">Email</a>
   &nbsp;&nbsp;
   <a href="https://space.bilibili.com/299633080">Bilibili Channel</a>
   &nbsp;&nbsp;
