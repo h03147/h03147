@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">Email</a>
+  <a href="https://www.youtube.com/channel/UCwZKPR5hBDJVop20KzMlmfA/about">Email</a>
   &nbsp;&nbsp;
   <a href="https://space.bilibili.com/299633080">Bilibili Channel</a>
   &nbsp;&nbsp;
