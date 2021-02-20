@@ -30,3 +30,14 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=h03147&layout=compact&langs_count=8&theme=monokai"/>
 </a>
 </p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+  <a href="mailto:mazdakpak@icloud.com">Email</a>
+  &nbsp;&nbsp;
+  <a href="https://space.bilibili.com/299633080">Bilibili Channel</a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/channel/UCwZKPR5hBDJVop20KzMlmfA">Youtube Channel</a>
+
+</p>
