@@ -23,3 +23,11 @@ Here are some ideas to get you started:
 - ✨✨✨ ✨✨✨  
 ![h03147's github stats](https://github-readme-stats.vercel.app/api?username=h03147&show_icons=true&theme=monokai)
 ![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h03147&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p align="center">
+<a href="https://github.com/h03147">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=h03147&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=h03147&layout=compact&langs_count=8&theme=monokai"/>
+</a>
+</p>
