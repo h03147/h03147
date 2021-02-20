@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me:soyellowjack@gmail.com
 - 😄 Pronouns:Bonjour~~
 - ✨✨✨ ✨✨✨  
-![h03147's github stats](https://github-readme-stats.vercel.app/api?username=h03147&show_icons=true&theme=monokai)
-![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h03147&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <p align="center">
