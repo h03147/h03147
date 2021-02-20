@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 - ✨✨✨ ✨✨✨
 - 👷 I’m a College Student
 - 🌱 I’m currently learning Java & Python & JavaScript
-- 💬 Wechat:h03147
-- 📫 How to reach me:soyellowjack@gmail.com
 - 😄 Pronouns:Bonjour~~
 - ✨✨✨ ✨✨✨  
 
