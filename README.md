@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://github.com/h03147">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=h03147&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=h03147&layout=compact&langs_count=8&theme=flag-india"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=h03147&layout=compact&langs_count=8&theme=solarized-light"/>
 </a>
 </p>
 
